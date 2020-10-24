@@ -1,3 +1,4 @@
 print (paradox)
 Printt (ty ty)
-Print <p>текст текст<p>
+pass
+import pdb; pdb.set_trace( lf flf lf )
